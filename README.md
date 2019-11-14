@@ -2,7 +2,7 @@
 
 ### Set Up: 
 
-Clone in the "envs-only" branch of https://github.com/cerebrotech/packer-compute-environment-caching
+Clone this repo. 
   
 #### Edit the image.json file for your deployment: 
 The critical items to check:
